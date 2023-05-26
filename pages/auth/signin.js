@@ -20,7 +20,7 @@ function Signin({ providers }) {
   return (
     <div className="bg-black h-screen flex flex-col items-center pt-40 space-y-8">
       <Head>
-        <title>Login - Streamify</title>
+        <title>Login - Chord</title>
         <link rel="icon" href="/streamlit.ico" />
       </Head>
       <Image
