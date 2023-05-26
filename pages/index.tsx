@@ -21,7 +21,7 @@ const Home: NextPage = () => {
   return (
     <div className="">
       <Head>
-        <title>Streamify - Dashboard</title>
+        <title>Chord - Dashboard</title>
         <link rel="icon" href="/streamlit.ico" />
       </Head>
 
